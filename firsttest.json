@@ -1,0 +1,35 @@
+{
+
+    "business_applications": [{
+
+        "name": "bookinfo"
+
+        , "business_owner": {"name": "Taneem Hourani", "email": "taneem@rapdev.io"}
+
+        , "tech_owner": {"name": "Jon Glara", "email": "jon@rapdev.io"}
+
+        , "support_group": "bookinfo SRE"
+
+    }]
+
+    , "microservices": [{
+
+        "name": "bookinfo"
+
+        , "owned_by": {"name": "Jon Glara", "email": "jon@rapdev.io"}
+
+        , "support_group": "Engineering Services"
+
+        , "application_services": [{
+
+            "environment": "Prod"
+
+            , "tags": {"service": "bookinfo"
+
+                        , "env": "prod"}
+
+        }]
+
+    }]
+
+}
