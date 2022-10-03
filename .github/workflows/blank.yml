@@ -18,6 +18,10 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout Stage
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      uses: actions/checkout@v3
+      
     - name: Deploy Stage
       uses: fjogeleit/http-request-action@v1
       with:
