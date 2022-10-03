@@ -14,7 +14,7 @@
 
     , "microservices": [{
 
-        "name": "bookinfo35"
+        "name": "bookinfo38"
 
         , "owned_by": {"name": "Jon Glara", "email": "jon@rapdev.io"}
 
