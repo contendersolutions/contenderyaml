@@ -26,4 +26,4 @@ jobs:
         username: 'admin'
         password: 'C0ntender!'
         customHeaders: '{"Content-Type": "application/json"}'
-        files: 'firsttest.json'
+        file: 'firsttest.json'
