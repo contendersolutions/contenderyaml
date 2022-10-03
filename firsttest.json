@@ -2,7 +2,7 @@
 
     "business_applications": [{
 
-        "name": "bookinfo"
+        "name": "testing2"
 
         , "business_owner": {"name": "Taneem Hourani", "email": "taneem@rapdev.io"}
 
@@ -14,7 +14,7 @@
 
     , "microservices": [{
 
-        "name": "bookinfo40"
+        "name": "checkin2"
 
         , "owned_by": {"name": "Jon Glara", "email": "jon@rapdev.io"}
 
@@ -24,7 +24,7 @@
 
             "environment": "Prod"
 
-            , "tags": {"service": "bookinfo"
+            , "tags": {"service": "checkin"
 
                         , "env": "prod"}
 
