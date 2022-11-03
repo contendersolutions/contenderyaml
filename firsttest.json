@@ -14,7 +14,7 @@
 
     , "microservices": [{
 
-        "name": "checkin70"
+        "name": "bookinfo"
 
         , "owned_by": {"name": "Jon Glara", "email": "jon@rapdev.io"}
 
@@ -24,9 +24,10 @@
 
             "environment": "Prod"
 
-            , "tags": {"service": "checkin"
+            , "tags": {"app": "bookinfo"
 
-                        , "env": "prod"}
+                        , "env": "prod"
+                        , "cluster": "orlando"}
 
         }]
 
