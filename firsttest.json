@@ -2,11 +2,11 @@
 
     "business_applications": [{
 
-        "name": "testing3"
+        "name": "bookinfo"
 
-        , "business_owner": {"name": "Taneem Hourani", "email": "taneem@rapdev.io"}
+        , "business_owner": {"name": "Benjamin Damery", "email": "bdamery@contendersolutions.com"}
 
-        , "tech_owner": {"name": "Jon Glara", "email": "jon@rapdev.io"}
+        , "tech_owner": {"name": "Benjamin Damery", "email": "bdamery@contendersolutions.com"}
 
         , "support_group": "bookinfo SRE"
 
@@ -14,9 +14,9 @@
 
     , "microservices": [{
 
-        "name": "bookinfo1"
+        "name": "bookinfo"
 
-        , "owned_by": {"name": "Jon Glara", "email": "jon@rapdev.io"}
+        , "owned_by": {"name": "Benjamin Damery", "email": "bdamery@contendersolutions.com"}
 
         , "support_group": "Engineering Services"
 
