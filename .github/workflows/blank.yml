@@ -27,7 +27,7 @@ jobs:
       with:
         url: 'https://contendersoldev2.service-now.com/api/nts/tagappservices/tagappservices'
         method: 'POST'
-        username: 'admin'
-        password: 'C0ntender!'
+        username: 'bdamery'
+        password: 'MickeyM0use!'
         customHeaders: '{"Content-Type": "application/json"}'
-        file: 'firsttest.json'
+        file: 'contender.json'
